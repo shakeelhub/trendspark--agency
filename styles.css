@@ -431,6 +431,11 @@ svg {
   color: var(--title-color);
 }
 
+.sales{
+  width:300px;
+  height:auto;
+}
+
 .contact__input::placeholder{
   color: var(--text-color);
 }

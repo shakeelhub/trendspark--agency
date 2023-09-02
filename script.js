@@ -72,3 +72,5 @@ sr.reveal(`.home__image`,{origin:'bottom'})
 sr.reveal(`.about__data,.section__subtitle`,{origin:'left'})
 sr.reveal(`.about__image`,{origin:'right'})
 sr.reveal(`.services__card`,{interval:100})
+sr.reveal(`.enroll`)
+
