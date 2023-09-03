@@ -67,8 +67,8 @@ const sr = ScrollReveal({
     delay:200
 })
 
-sr.reveal(`.home__data,.home__social,.contact__container`)
-sr.reveal(`.home__image`,{origin:'bottom'})
+sr.reveal(`.home__data,.home__social,.contact__container,.services__container`)
+sr.reveal(`.home__image,.services`,{origin:'bottom'})
 sr.reveal(`.about__data,.section__subtitle`,{origin:'left'})
 sr.reveal(`.about__image`,{origin:'right'})
 sr.reveal(`.services__card`,{interval:100})
